@@ -12,6 +12,7 @@ event_messages = {
 covid_messages = {
                 "first_meeting" : """First meeting of the semester is this Thursday, find the link to our livestream on our linktree: linktr.ee/ccawmu""",
                 "no_meeting" : """Due to break there is no meeting this Thursday! If you missed our last meeting you can check us out at linktr.ee/ccawmu""",
+                "meeting_tonight" : """We'll be having out meeting tonight at 6pm, find the link to join us at linktr.ee/ccawmu""",
                 "meeting_time" : """We have a meeting tonight at 6pm on Google Meet! Find the link to join our meeting at linktr.ee/ccawmu and come hang out with us""",
                 "meeting_thursday": """Make sure to join us this Thursday for our virtual meeting! You can find us at linktr.ee/ccawmu """
 
